@@ -1,0 +1,1 @@
+netsh wlan show profiles "Router_Name" key=clear
